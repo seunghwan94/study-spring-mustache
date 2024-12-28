@@ -1,6 +1,6 @@
 # mustache를 이용한 Todo List page
 
-### 버전
+### 기술 스택(Tech Stack)
 - Spring boot : 3.4.1 (SNAPSHOT)
 - mybatis : 3.0.4
 - mustache
